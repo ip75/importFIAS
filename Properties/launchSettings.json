@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "importFias": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\dev\\importFias\\update\\Resources\\AS_ADDROBJ_2_250_01_04_01_01.xsd C:\\dev\\importFias\\update\\AS_ROOM_20200426_a9b8110b-cafd-45ea-86e4-12efc95c95be.XML C:\\dev\\importFias\\update\\AS_STEAD_20200426_301c0e8f-dc0e-4393-822a-7095eb7ddf02.XML C:\\dev\\importFias\\update\\AS_HOUSE_20200426_97eeed92-dbaa-46c7-a290-db824436f92f.XML"
+    }
+  }
+}
